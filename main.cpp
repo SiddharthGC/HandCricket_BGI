@@ -1,6 +1,5 @@
 //Hand Cricket 2017 Version 1.0
-//Developed by Neo-Retro games
-//Siddharth G.C , Nitish Balajee, Santhosh S
+//Siddharth G.C
 
 #include <iostream>
 #include<stdio.h>
