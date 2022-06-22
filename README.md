@@ -8,8 +8,5 @@ To run the game, first use WinRAR or any other archiving software to extract all
 
 All the music tracks in the game are completely royalty free and all the sources have been mentioned in the game's credits.
 
-Just a little note - I built this for a Game Programming course I did in my second year of college, and I was the only one in the 
-class of around 70 students to get a perfect 10 grade for the course (Doesn't really matter now, but it made me happy at the time :-P).
-
 Please do not copy my work. If you want to use it for reference, please make sure to cite it in your list of references. I'll know if 
 you've used my code, so don't try it.
